@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', () => {
         "No eres canción, pero desde que apareciste… mi corazón tiene un nuevo ritmo.",
         "Eres como un atardecer en la playa: imposible de ignorar, imposible de olvidar.",
         "No busco mil amores. Solo quiero uno… que se parezca a ti.",
-        "Helian Rosiwar Herrera Alonso… si tu nombre fuera un verso, yo lo repetiría en todos mis poemas.",
+        " si tu nombre fuera un verso, yo lo repetiría en todos mis poemas.",
         "No vine a impresionarte. Vine a mostrarte lo que se siente cuando alguien de verdad quiere conocerte."
     ];
 
